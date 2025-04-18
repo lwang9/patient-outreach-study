@@ -1,0 +1,470 @@
+id,variant_assignment,last_seen,unsubscribed,opened,click,visit
+21,placebo,1/17/2025,1,1,0,0
+41,treatment_generic,a while ago,1,1,0,0
+44,placebo,9/13/2023,1,1,0,0
+78,treatment_generic,a while ago,1,1,0,0
+105,treatment_generic,a while ago,1,1,0,0
+190,placebo,a while ago,1,1,0,0
+201,treatment_personalized,a while ago,1,1,0,0
+221,treatment_personalized,a while ago,1,1,0,0
+232,treatment_generic,6/13/2024,1,1,0,0
+278,placebo,5/8/2024,1,1,0,0
+296,treatment_generic,4/19/2024,1,1,0,0
+363,placebo,a while ago,1,1,0,0
+381,treatment_generic,a while ago,1,1,0,0
+404,treatment_personalized,a while ago,1,1,0,0
+410,treatment_personalized,a while ago,1,1,1,0
+415,treatment_generic,a while ago,1,1,0,0
+418,treatment_personalized,a while ago,1,1,0,0
+425,placebo,a while ago,1,1,0,0
+438,treatment_personalized,1/12/2021,1,1,0,0
+448,placebo,a while ago,1,1,0,0
+433,placebo,2/20/2021,1,1,0,0
+442,control,a while ago,0,1,0,0
+0,placebo,a while ago,0,1,0,0
+1,treatment_generic,a while ago,0,1,0,0
+2,placebo,2/19/2025,0,1,0,0
+3,control,a while ago,0,0,0,0
+4,treatment_personalized,2/7/2025,0,1,0,0
+5,placebo,a while ago,0,1,0,0
+6,treatment_generic,2/4/2025,0,1,0,0
+7,control,1/30/2025,0,0,0,0
+8,placebo,1/28/2025,0,1,0,0
+9,placebo,a while ago,0,1,0,0
+10,placebo,1/23/2025,0,1,0,0
+11,placebo,a while ago,0,1,0,0
+12,treatment_personalized,a while ago,0,1,0,0
+13,placebo,a while ago,0,1,0,0
+14,treatment_personalized,a while ago,0,1,0,0
+15,treatment_personalized,1/23/2025,0,1,0,0
+16,control,a while ago,0,0,0,0
+17,treatment_personalized,a while ago,0,1,1,0
+18,treatment_personalized,1/17/2025,0,1,0,0
+19,control,1/17/2025,0,0,0,0
+20,placebo,1/30/2025,0,1,0,0
+22,placebo,a while ago,0,1,0,0
+23,treatment_generic,a while ago,0,1,0,0
+24,control,a while ago,0,0,0,0
+25,control,1/29/2025,0,0,0,1
+26,treatment_personalized,1/10/2025,0,1,0,0
+27,treatment_generic,a while ago,0,1,0,0
+28,placebo,1/15/2025,0,1,0,1
+29,treatment_generic,2/13/2025,0,1,0,0
+30,placebo,1/8/2025,0,1,0,0
+31,treatment_generic,a while ago,0,1,0,1
+32,treatment_personalized,1/8/2025,0,1,0,0
+33,treatment_personalized,1/14/2025,0,1,0,0
+34,treatment_personalized,a while ago,0,1,0,0
+35,treatment_generic,a while ago,0,1,0,0
+36,treatment_generic,a while ago,0,1,0,0
+37,treatment_generic,a while ago,0,1,0,0
+38,placebo,a while ago,0,1,0,0
+39,placebo,2/5/2025,0,1,0,0
+40,treatment_personalized,1/8/2025,0,1,0,0
+42,treatment_personalized,a while ago,0,1,0,0
+43,treatment_personalized,a while ago,0,1,0,0
+45,placebo,a while ago,0,1,0,0
+46,placebo,a while ago,0,1,0,0
+47,treatment_personalized,a while ago,0,1,0,0
+48,placebo,12/21/2024,0,1,0,0
+49,placebo,a while ago,0,1,0,0
+50,treatment_generic,a while ago,0,1,0,0
+51,placebo,a while ago,0,1,0,0
+52,treatment_generic,2/27/2025,0,1,0,0
+53,treatment_generic,a while ago,0,1,0,0
+54,control,a while ago,0,0,0,0
+55,treatment_generic,a while ago,0,1,0,0
+56,placebo,a while ago,0,1,0,0
+57,placebo,a while ago,0,1,0,0
+58,placebo,a while ago,0,1,0,0
+59,control,a while ago,0,0,0,0
+60,treatment_generic,1/24/2025,0,1,0,0
+61,placebo,12/17/2024,0,1,0,0
+62,treatment_generic,a while ago,0,1,0,0
+63,control,a while ago,0,0,0,0
+64,treatment_personalized,a while ago,0,1,0,0
+65,placebo,a while ago,0,1,0,0
+66,control,a while ago,0,0,0,0
+67,control,a while ago,0,0,0,0
+68,control,a while ago,0,0,0,0
+69,control,a while ago,0,0,0,0
+70,control,a while ago,0,0,0,0
+71,treatment_generic,a while ago,0,1,0,0
+72,placebo,a while ago,0,1,0,0
+73,control,a while ago,0,0,0,0
+74,control,a while ago,0,0,0,0
+75,treatment_generic,a while ago,0,1,0,0
+76,treatment_personalized,a while ago,0,1,0,0
+77,treatment_generic,a while ago,0,1,0,0
+79,treatment_personalized,a while ago,0,1,0,0
+80,placebo,a while ago,0,1,0,0
+81,placebo,a while ago,0,1,0,0
+82,control,a while ago,0,0,0,0
+83,treatment_personalized,a while ago,0,1,0,0
+84,treatment_generic,a while ago,0,1,0,0
+85,treatment_personalized,a while ago,0,1,0,0
+86,placebo,a while ago,0,1,0,0
+87,treatment_generic,a while ago,0,1,0,0
+88,control,a while ago,0,0,0,0
+89,control,a while ago,0,0,0,0
+90,control,a while ago,0,0,0,0
+91,control,a while ago,0,0,0,0
+92,treatment_generic,a while ago,0,1,0,0
+93,treatment_generic,a while ago,0,1,0,0
+94,placebo,a while ago,0,1,0,0
+95,treatment_personalized,12/16/2024,0,1,1,0
+96,control,a while ago,0,0,0,0
+97,treatment_generic,2/15/2025,0,1,0,1
+98,placebo,1/17/2025,0,1,0,0
+99,treatment_generic,a while ago,0,1,0,0
+100,treatment_generic,a while ago,0,1,0,0
+101,control,a while ago,0,0,0,0
+102,treatment_personalized,a while ago,0,1,0,0
+103,treatment_generic,a while ago,0,1,0,0
+104,treatment_generic,a while ago,0,1,0,0
+106,control,a while ago,0,0,0,0
+107,placebo,a while ago,0,1,1,0
+108,control,a while ago,0,0,0,0
+109,control,a while ago,0,0,0,0
+110,control,a while ago,0,0,0,0
+111,control,a while ago,0,0,0,0
+112,treatment_personalized,2/13/2025,0,1,0,1
+113,treatment_generic,11/22/2024,0,1,0,0
+114,control,a while ago,0,0,0,0
+115,placebo,12/10/2024,0,0,0,0
+116,treatment_personalized,12/5/2024,0,1,0,0
+117,placebo,a while ago,0,1,0,0
+118,treatment_personalized,a while ago,0,1,0,0
+119,treatment_generic,a while ago,0,1,0,0
+120,control,a while ago,0,0,0,0
+121,treatment_generic,12/16/2024,0,1,0,0
+122,placebo,a while ago,0,1,0,0
+123,treatment_personalized,a while ago,0,1,0,0
+124,placebo,a while ago,0,1,0,0
+125,treatment_generic,a while ago,0,1,0,0
+126,treatment_generic,a while ago,0,1,0,0
+127,placebo,a while ago,0,1,0,0
+128,control,a while ago,0,0,0,0
+129,placebo,a while ago,0,1,0,0
+130,control,a while ago,0,0,0,0
+131,control,a while ago,0,0,0,0
+132,treatment_personalized,a while ago,0,1,0,0
+133,treatment_generic,a while ago,0,1,0,0
+134,treatment_personalized,a while ago,0,1,0,0
+135,treatment_generic,10/26/2024,0,1,0,0
+136,control,12/12/2024,0,0,0,0
+137,treatment_personalized,a while ago,0,1,0,0
+138,treatment_generic,a while ago,0,1,0,0
+139,treatment_personalized,10/16/2024,0,1,0,0
+140,treatment_generic,10/13/2024,0,1,0,0
+141,treatment_generic,a while ago,0,1,0,0
+142,control,10/18/2024,0,0,0,0
+143,control,a while ago,0,0,0,0
+144,placebo,a while ago,0,1,0,0
+145,treatment_generic,a while ago,0,1,0,0
+146,treatment_personalized,10/2/2024,0,1,0,0
+147,placebo,10/2/2024,0,1,0,0
+148,treatment_generic,a while ago,0,1,0,0
+149,treatment_personalized,a while ago,0,1,0,0
+150,placebo,a while ago,0,1,0,0
+151,treatment_generic,a while ago,0,1,0,0
+152,treatment_generic,9/24/2024,0,1,0,0
+153,placebo,a while ago,0,1,0,0
+154,treatment_personalized,a while ago,0,1,0,0
+155,treatment_generic,a while ago,0,1,0,0
+156,placebo,9/18/2024,0,1,0,0
+157,placebo,9/18/2024,0,1,0,0
+158,treatment_generic,a while ago,0,1,0,0
+159,treatment_personalized,a while ago,0,1,0,0
+160,placebo,a while ago,0,1,0,0
+161,treatment_personalized,a while ago,0,1,0,0
+162,control,a while ago,0,0,0,0
+163,control,a while ago,0,0,0,0
+164,placebo,3/8/2025,0,1,0,1
+165,treatment_personalized,a while ago,0,1,0,0
+166,placebo,a while ago,0,1,0,0
+167,placebo,12/18/2024,0,1,0,0
+168,treatment_generic,a while ago,0,1,0,0
+169,treatment_personalized,a while ago,0,1,0,0
+170,treatment_personalized,a while ago,0,1,0,0
+171,control,3/3/2025,0,0,0,1
+172,control,a while ago,0,0,0,0
+173,treatment_generic,a while ago,0,1,0,0
+174,control,10/1/2024,0,0,0,0
+175,control,9/1/2024,0,0,0,0
+176,treatment_generic,a while ago,0,1,0,0
+177,placebo,9/1/2024,0,1,0,0
+178,placebo,a while ago,0,1,0,0
+179,placebo,a while ago,0,1,0,0
+180,treatment_personalized,12/6/2024,0,1,0,0
+181,placebo,a while ago,0,1,0,0
+182,treatment_generic,a while ago,0,1,0,0
+183,treatment_personalized,a while ago,0,1,1,0
+184,treatment_generic,a while ago,0,1,0,0
+185,treatment_personalized,a while ago,0,1,0,0
+186,placebo,a while ago,0,1,0,0
+187,control,a while ago,0,0,0,0
+188,treatment_personalized,a while ago,0,1,0,0
+189,placebo,a while ago,0,1,0,0
+191,control,a while ago,0,0,0,0
+192,placebo,a while ago,0,1,0,0
+193,treatment_personalized,a while ago,0,1,0,0
+194,control,8/15/2024,0,0,0,0
+195,placebo,a while ago,0,1,0,0
+196,control,a while ago,0,0,0,0
+197,placebo,a while ago,0,1,0,0
+198,treatment_personalized,a while ago,0,1,0,0
+199,treatment_generic,a while ago,0,1,0,0
+200,treatment_generic,10/22/2023,0,1,0,0
+202,placebo,a while ago,0,1,0,0
+203,treatment_generic,7/24/2024,0,1,0,1
+204,placebo,11/27/2024,0,1,0,0
+205,treatment_generic,a while ago,0,1,0,0
+206,control,a while ago,0,0,0,0
+207,treatment_personalized,a while ago,0,1,0,0
+208,treatment_generic,7/8/2024,0,1,0,0
+209,control,a while ago,0,0,0,0
+210,treatment_generic,1/2/2025,0,1,0,0
+211,placebo,6/28/2024,0,1,0,0
+212,placebo,a while ago,0,1,0,0
+213,control,a while ago,0,0,0,0
+214,placebo,a while ago,0,1,0,0
+215,placebo,a while ago,0,1,0,0
+216,placebo,6/24/2024,0,1,0,0
+217,treatment_personalized,a while ago,0,1,0,0
+218,placebo,6/26/2024,0,1,0,0
+219,treatment_generic,6/26/2024,0,1,0,0
+220,placebo,a while ago,0,1,0,0
+222,treatment_personalized,a while ago,0,1,0,0
+223,treatment_personalized,12/29/2024,0,1,0,0
+224,placebo,7/12/2024,0,1,0,0
+225,placebo,6/12/2024,0,1,0,0
+226,treatment_generic,6/14/2024,0,1,0,0
+227,control,a while ago,0,0,0,0
+228,treatment_generic,a while ago,0,1,0,0
+229,control,6/24/2024,0,0,0,0
+230,control,a while ago,0,0,0,0
+231,control,6/11/2024,0,0,0,0
+233,control,6/11/2024,0,0,0,0
+234,control,6/14/2024,0,0,0,0
+235,treatment_personalized,6/7/2024,0,1,0,0
+236,placebo,a while ago,0,1,0,0
+237,treatment_generic,a while ago,0,1,0,0
+238,treatment_personalized,6/10/2024,0,1,0,0
+239,placebo,6/5/2024,0,1,0,0
+240,placebo,6/5/2024,0,1,0,0
+241,control,6/4/2024,0,0,0,0
+242,control,6/6/2024,0,0,0,0
+243,treatment_generic,6/6/2024,0,1,0,0
+244,treatment_generic,a while ago,0,1,0,0
+245,control,a while ago,0,0,0,0
+246,treatment_personalized,5/22/2024,0,1,0,0
+247,placebo,a while ago,0,1,0,0
+248,treatment_personalized,1/10/2025,0,1,0,1
+249,treatment_generic,5/23/2024,0,1,0,0
+250,placebo,6/27/2024,0,1,0,0
+251,placebo,12/13/2024,0,1,0,0
+252,control,a while ago,0,0,0,0
+253,placebo,11/27/2024,0,1,0,0
+254,treatment_generic,a while ago,0,1,0,0
+255,treatment_personalized,a while ago,0,1,0,0
+256,placebo,a while ago,0,1,0,0
+257,treatment_personalized,a while ago,0,1,0,0
+258,treatment_personalized,a while ago,0,1,0,0
+259,treatment_personalized,5/21/2024,0,1,0,0
+260,placebo,5/22/2024,0,1,0,0
+261,treatment_generic,5/13/2024,0,1,0,0
+262,treatment_generic,5/31/2024,0,1,0,0
+263,control,5/22/2024,0,0,0,0
+264,placebo,a while ago,0,1,0,0
+265,treatment_generic,5/20/2024,0,1,0,0
+266,placebo,5/21/2024,0,1,0,0
+267,placebo,5/17/2024,0,1,0,0
+268,control,5/10/2024,0,0,0,0
+269,treatment_generic,5/14/2024,0,1,0,0
+270,control,5/20/2024,0,0,0,0
+271,control,5/22/2024,0,0,0,0
+272,control,5/13/2024,0,0,0,0
+273,treatment_generic,5/7/2024,0,1,0,0
+274,treatment_generic,a while ago,0,1,0,0
+275,treatment_personalized,5/10/2024,0,1,0,0
+276,treatment_personalized,6/14/2024,0,1,0,0
+277,placebo,5/8/2024,0,1,0,0
+279,treatment_personalized,5/6/2024,0,1,0,0
+280,treatment_personalized,5/3/2024,0,1,0,0
+281,treatment_generic,5/1/2024,0,1,0,0
+282,treatment_generic,5/2/2024,0,1,0,0
+283,treatment_personalized,5/8/2024,0,1,0,0
+284,control,4/22/2024,0,0,0,0
+285,treatment_generic,4/26/2024,0,1,0,0
+286,control,4/22/2024,0,0,0,0
+287,treatment_generic,4/18/2024,0,1,0,0
+288,placebo,5/10/2024,0,1,0,0
+289,treatment_personalized,4/22/2024,0,1,0,0
+290,placebo,4/22/2024,0,1,0,0
+291,placebo,a while ago,0,1,0,0
+292,placebo,a while ago,0,1,0,0
+293,placebo,a while ago,0,1,0,0
+294,treatment_generic,4/18/2024,0,1,0,0
+295,control,4/24/2024,0,0,0,0
+297,control,4/22/2024,0,0,0,0
+298,treatment_generic,4/17/2024,0,1,0,0
+299,control,4/16/2024,0,0,0,0
+300,treatment_personalized,4/17/2024,0,1,0,0
+301,placebo,4/17/2024,0,1,0,0
+302,treatment_personalized,4/23/2024,0,1,0,0
+303,treatment_generic,4/22/2024,0,1,0,0
+304,placebo,4/22/2024,0,1,0,0
+305,control,4/15/2024,0,0,0,0
+306,treatment_generic,4/12/2024,0,1,0,0
+307,treatment_personalized,a while ago,0,1,0,0
+308,treatment_generic,3/18/2024,0,1,0,0
+309,control,a while ago,0,0,0,0
+310,control,3/22/2024,0,0,0,0
+311,control,3/18/2024,0,0,0,0
+312,treatment_personalized,a while ago,0,1,0,0
+313,treatment_personalized,3/11/2024,0,1,0,0
+314,placebo,a while ago,0,1,0,0
+315,control,3/11/2024,0,0,0,0
+316,treatment_personalized,3/11/2024,0,1,0,0
+317,placebo,3/11/2024,0,1,0,0
+318,placebo,a while ago,0,1,0,0
+319,control,a while ago,0,0,0,0
+320,control,2/29/2024,0,0,0,0
+321,placebo,2/13/2024,0,1,0,0
+322,control,a while ago,0,0,0,0
+323,treatment_generic,2/3/2024,0,1,0,0
+324,treatment_generic,2/3/2024,0,1,0,0
+325,treatment_personalized,a while ago,0,1,0,0
+326,treatment_personalized,a while ago,0,1,0,0
+327,control,a while ago,0,0,0,0
+328,control,a while ago,0,0,0,0
+329,treatment_generic,1/15/2024,0,1,0,0
+330,placebo,1/13/2024,0,1,0,0
+331,placebo,1/11/2024,0,1,0,0
+332,treatment_personalized,12/22/2023,0,1,0,0
+333,control,a while ago,0,0,0,0
+334,treatment_personalized,12/18/2023,0,1,0,0
+335,treatment_personalized,12/26/2023,0,1,0,0
+336,control,12/28/2023,0,0,0,0
+337,placebo,a while ago,0,1,0,0
+338,treatment_personalized,12/13/2023,0,1,0,0
+339,placebo,12/13/2023,0,1,0,0
+340,control,12/11/2023,0,0,0,0
+341,control,12/13/2023,0,0,0,0
+342,treatment_personalized,12/13/2023,0,1,1,0
+343,placebo,a while ago,0,1,0,0
+344,treatment_generic,12/5/2024,0,1,0,0
+345,control,a while ago,0,0,0,0
+346,control,12/22/2023,0,0,0,0
+347,treatment_generic,12/6/2023,0,1,0,0
+348,treatment_generic,12/1/2023,0,1,0,0
+349,treatment_generic,11/24/2023,0,1,0,0
+350,treatment_personalized,a while ago,0,1,0,0
+351,control,a while ago,0,0,0,0
+352,control,11/17/2023,0,0,0,0
+353,treatment_personalized,a while ago,0,1,0,0
+354,control,a while ago,0,0,0,0
+355,placebo,12/7/2023,0,1,0,0
+356,placebo,11/13/2023,0,1,0,0
+357,treatment_personalized,10/30/2023,0,1,0,0
+358,treatment_generic,11/17/2023,0,1,0,0
+359,placebo,a while ago,0,1,0,0
+360,control,a while ago,0,0,0,0
+361,placebo,a while ago,0,1,0,0
+362,treatment_generic,10/24/2023,0,1,0,0
+364,placebo,10/11/2023,0,1,0,0
+365,treatment_generic,10/10/2023,0,1,0,0
+366,treatment_generic,a while ago,0,1,0,0
+367,treatment_generic,9/27/2023,0,1,0,0
+368,treatment_generic,10/2/2023,0,1,0,0
+369,placebo,a while ago,0,1,0,0
+370,treatment_personalized,9/27/2023,0,1,0,0
+371,control,9/28/2023,0,0,0,0
+372,treatment_generic,9/13/2023,0,1,0,0
+373,treatment_personalized,a while ago,0,1,0,0
+374,treatment_generic,8/26/2023,0,1,0,0
+375,placebo,8/8/2023,0,1,0,0
+376,placebo,a while ago,0,1,0,0
+377,treatment_generic,10/27/2023,0,1,0,0
+378,treatment_generic,a while ago,0,1,0,0
+379,treatment_personalized,a while ago,0,1,0,0
+380,treatment_generic,6/2/2023,0,1,0,0
+382,placebo,2/22/2024,0,1,0,0
+383,treatment_generic,a while ago,0,1,1,1
+384,control,4/10/2023,0,0,0,0
+385,treatment_generic,4/5/2023,0,1,0,0
+386,treatment_personalized,a while ago,0,1,0,0
+387,placebo,a while ago,0,1,0,0
+388,treatment_personalized,3/20/2023,0,1,0,0
+389,treatment_personalized,a while ago,0,1,0,0
+390,control,3/28/2023,0,0,0,0
+391,treatment_generic,a while ago,0,1,0,0
+392,placebo,a while ago,0,1,0,0
+393,treatment_generic,3/9/2023,0,1,0,0
+394,treatment_personalized,2/16/2023,0,1,0,0
+395,placebo,a while ago,0,1,0,0
+396,placebo,2/8/2025,0,1,0,0
+397,control,a while ago,0,0,0,0
+398,treatment_generic,a while ago,0,1,0,0
+399,treatment_personalized,1/3/2025,0,1,0,0
+400,placebo,1/7/2025,0,1,0,1
+401,placebo,8/24/2022,0,1,0,0
+402,placebo,4/25/2022,0,1,0,0
+403,placebo,a while ago,0,1,0,0
+405,treatment_personalized,a while ago,0,1,0,0
+406,treatment_generic,a while ago,0,1,0,0
+407,treatment_personalized,8/16/2021,0,1,0,0
+408,treatment_personalized,8/15/2024,0,1,0,0
+409,treatment_personalized,a while ago,0,1,0,0
+411,treatment_generic,a while ago,0,1,0,0
+412,treatment_generic,a while ago,0,1,0,0
+413,placebo,8/5/2021,0,1,0,0
+414,placebo,11/13/2024,0,1,0,0
+416,treatment_generic,a while ago,0,1,0,0
+417,treatment_personalized,2/15/2023,0,1,0,0
+419,control,7/3/2021,0,0,0,0
+420,placebo,a while ago,0,1,0,0
+421,treatment_personalized,11/12/2021,0,1,0,0
+422,treatment_personalized,a while ago,0,1,1,0
+423,placebo,a while ago,0,1,0,0
+424,control,a while ago,0,0,0,0
+426,control,a while ago,0,0,0,0
+427,placebo,5/23/2022,0,1,0,0
+428,treatment_personalized,4/21/2021,0,1,0,0
+429,treatment_generic,a while ago,0,1,0,0
+430,control,a while ago,0,0,0,0
+431,treatment_generic,3/24/2021,0,1,0,0
+432,placebo,a while ago,0,1,0,0
+434,treatment_personalized,a while ago,0,1,0,0
+435,treatment_personalized,a while ago,0,1,0,0
+436,treatment_generic,a while ago,0,1,0,0
+437,treatment_personalized,1/13/2021,0,1,0,0
+439,treatment_generic,a while ago,0,1,0,0
+440,control,a while ago,0,0,0,0
+441,treatment_personalized,a while ago,0,1,0,0
+443,treatment_personalized,8/29/2022,0,1,0,0
+444,placebo,a while ago,0,1,0,0
+445,control,9/29/2021,0,0,0,0
+446,placebo,9/19/2023,0,1,0,0
+447,control,1/13/2021,0,0,0,0
+449,treatment_generic,8/7/2021,0,1,0,0
+450,control,1/13/2021,0,0,0,0
+451,control,a while ago,0,1,0,0
+452,control,1/13/2021,0,0,0,0
+453,treatment_personalized,9/25/2021,0,1,0,0
+454,control,a while ago,0,0,0,0
+455,placebo,10/31/2022,0,1,1,0
+456,treatment_generic,a while ago,0,1,0,0
+457,placebo,4/21/2021,0,1,0,0
+458,control,3/17/2022,0,0,0,0
+459,treatment_generic,1/6/2021,0,1,0,0
+460,treatment_personalized,2/3/2021,0,1,0,0
+461,control,a while ago,0,0,0,0
+462,treatment_personalized,a while ago,0,1,0,0
+463,treatment_personalized,a while ago,0,1,0,0
+464,treatment_generic,a while ago,0,1,0,0
+465,control,a while ago,0,0,0,0
+466,placebo,a while ago,0,1,0,0
+467,treatment_generic,a while ago,0,1,0,0
+468,treatment_personalized,a while ago,0,1,0,0
